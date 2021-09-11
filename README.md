@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nima-khdb
+- 👀 I’m interested in front end developing
+- 🌱 I’m currently learning reactJS
+- 📫 How to reach me n.khodabakhshi13@gmail.com
